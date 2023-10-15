@@ -1,4 +1,4 @@
-package ConditionalStatement.comparenums;
+package ConditionalStatement.ovenclock;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package ConditionalStatement.comparenums;
+package ConditionalStatement.quadrant;
 
 import java.io.BufferedReader;
 import java.io.IOException;
